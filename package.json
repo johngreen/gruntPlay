@@ -1,0 +1,28 @@
+{
+  "name": "grunt1",
+  "version": "1.0.0",
+  "description": "grunt test file v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "gme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johngreen/gruntPlay.git"
+  },
+  "keywords": [
+    "Grunt",
+    "stuff"
+  ],
+  "author": "John C Green",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/johngreen/gruntPlay/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.1"
+  }
+}
